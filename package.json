@@ -1,0 +1,37 @@
+{
+  "name": "gimkit-block-converter",
+  "version": "0.0.1",
+  "description": "Converts between JavaScript, JSON and Gimkit Blocks.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx gimloader@github:TheLazySquid/Gimloader build"
+  },
+  "author": "Julian Bauer",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.6",
+    "gimloader": "github:TheLazySquid/Gimloader",
+    "rollup-plugin-svelte": "^7.2.2",
+    "svelte": "^4.2.18"
+  },
+  "dependencies": {
+    "@codemirror/commands": "^6.6.0",
+    "@codemirror/lang-javascript": "^6.2.2",
+    "@codemirror/lang-json": "^6.0.1",
+    "@codemirror/lint": "^6.8.1",
+    "@codemirror/state": "^6.4.1",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "@codemirror/view": "^6.28.2",
+    "@rollup/plugin-commonjs": "^26.0.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@tsconfig/svelte": "^5.0.4",
+    "codemirror": "^6.0.1",
+    "gimblocks": "github:Ashwagandhae/gimblocks",
+    "rollup-plugin-styles": "^4.0.0",
+    "svelte-preprocess": "^5.1.4",
+    "tslib": "^2.6.3",
+    "typescript": "^5.4.5"
+  }
+}
