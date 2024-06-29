@@ -4,6 +4,7 @@
  * @author Ashwagandhae
  * @version 0.0.1
  * @reloadRequired true
+ * @downloadUrl https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js
  */
 /** @returns {void} */
 function noop() {}
