@@ -1,6 +1,6 @@
 # BlockConverter
 
-<img src="./images/basic.jpg" alt="blocks example" width="80%"/>
+<img src="./images/basic.jpg" alt="blocks example" width="100%"/>
 
 A plugin for [Gimloader](https://github.com/TheLazySquid/Gimloader) that converts between JavaScript, JSON and Gimkit Blocks.
 
