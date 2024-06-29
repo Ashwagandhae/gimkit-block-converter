@@ -8,7 +8,8 @@ A plugin for [Gimloader](https://github.com/TheLazySquid/Gimloader) that convert
 
 1. Install [Gimloader](https://github.com/TheLazySquid/Gimloader)
 2. [Install the plugin](https://thelazysquid.github.io/gimloader/?installUrl=https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js)
-3. (If `Loading script` takes too long, you can also just <a href="https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js" download target="_blank">download the script</a> and install it from the file in Gimloader)
+3. (If `Loading script` takes too long, you can also just <a href="https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js" download target="_blank">download the script</a> and install it from the file)
+4. Open any Blocks editor in Gimkit Creative, and you should see the plugin at the bottom-left of the screen!
 
 ## Usage
 
