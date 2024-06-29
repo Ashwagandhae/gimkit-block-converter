@@ -1,15 +1,13 @@
 # BlockConverter
 
-<div style="width:100%; display: flex; flex-direction: row; justify-content: center">
 <img src="./images/basic.jpg" alt="blocks example" width="80%"/>
-</div>
 
 A plugin for [Gimloader](https://github.com/TheLazySquid/Gimloader) that converts between JavaScript, JSON and Gimkit Blocks.
 
 ## Installation
 
 1. Install [Gimloader](https://github.com/TheLazySquid/Gimloader)
-2. [Install the plugin](https://example.com)
+2. [Install the plugin](https://thelazysquid.github.io/gimloader/?installUrl=https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js)
 
 ## Usage
 

@@ -16,6 +16,8 @@ export default {
   author: 'Ashwagandhae',
   version: pkg.version,
   reloadRequired: true,
+  downloadUrl:
+    'https://raw.githubusercontent.com/Ashwagandhae/gimkit-block-converter/main/build/BlockConverter.js',
   plugins: [
     svelte({
       preprocess: sveltePreprocess(),
